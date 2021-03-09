@@ -11,4 +11,4 @@ Mphasis DeepInsights Geopolitical Entity Recognizer is an efficient way of ident
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need Customized Deep learning and Machine Learning Solutions? Get in Touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](Marketplace Link to the listing. Update this once it is published. Example: https://aws.amazon.com/marketplace/pp/prodview-uzkcdmjuagetk)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-zzo6wpvnlzsgo)
